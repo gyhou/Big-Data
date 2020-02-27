@@ -49,7 +49,7 @@ Then, in your notebook, do the [code exercises from _Spark: The Definitive Guide
 **Important!** Note these instructions from the [repo README](https://github.com/databricks/Spark-The-Definitive-Guide/blob/master/README.md):
 > Rather than you having to upload all of the data yourself, you simply have to **change the path in each chapter from `/data` to `/databricks-datasets/definitive-guide/data`**. Once you've done that, all examples should run without issue. 
 
-**[Download the CSV file with curl]**(https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/7518333740958534/244803751991624/7702634641398412/latest.html)
+[**Download the CSV file with curl**](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/7518333740958534/244803751991624/7702634641398412/latest.html)
 
 Next, read [_Spark: The Definitive Guide_ excerpts](https://pages.databricks.com/rs/094-YMS-629/images/Apache-Spark-The-Definitive-Guide-Excerpts-R1.pdf), **Pages 26-31.**
 
